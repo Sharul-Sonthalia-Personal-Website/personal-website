@@ -1,0 +1,1 @@
+Here's a basic website about me, with a homepage, about page, and portfolio page. This will serve as a simple template to improve later on in the future as I gain more skills with html and css. 
