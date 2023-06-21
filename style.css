@@ -35,6 +35,7 @@
 #project{
     margin-left: 200;
     margin-top: -120;
+    width: 200;
 }
 
 #math{
@@ -44,9 +45,9 @@
 
 #tech{
     margin-left: 200;
-    margin-top: -120;
+    margin-top: -115;
 }
 
-#good, #interest{
+#good, #interest, #aboutmetext{
     background-color:lightblue;
 }
