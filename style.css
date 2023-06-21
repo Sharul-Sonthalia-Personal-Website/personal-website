@@ -7,12 +7,21 @@
 #AboutMeTitle{
     background-color:rgb(62, 123, 173);
     text-decoration-line: underline;
+}
+
+#name{
+    background-color:rgb(62, 123, 173);
+    text-decoration-line: underline;
+
+}
+
+#motto, #mission{
+    background-color:lightblue;
 
 }
 
 #Project1{
      background-color:lightblue;
-
 }
 
 #Project2{
@@ -23,10 +32,21 @@
     background-color:lightblue;
 }
 
-#good{
-    background-color:lightblue;
+#project{
+    margin-left: 200;
+    margin-top: -120;
 }
 
-#interest{
+#math{
+    margin-left: 200;
+    margin-top: -120;
+}
+
+#tech{
+    margin-left: 200;
+    margin-top: -120;
+}
+
+#good, #interest{
     background-color:lightblue;
 }
