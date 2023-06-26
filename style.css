@@ -3,6 +3,11 @@ body{
     flex-direction: column;
 }
 
+section1{
+    display:flex;
+    flex-direction: column;
+}
+
 .navitem:hover{
     background-color: darkblue;
     color: whitesmoke;
@@ -30,6 +35,7 @@ body{
 
 }
 
+
 #Project1, #Project2, #Project3{
      background-color:lightblue;
 }
@@ -52,4 +58,10 @@ body{
 
 #good, #interest, #aboutmetext{
     background-color:lightblue;
+}
+
+@media (max-width: 500px ){
+    body{
+        background-color:darkgrey;
+    }
 }
