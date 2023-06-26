@@ -18,6 +18,11 @@ nav{
     flex-direction: row;
 }
 
+.link:hover{
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
 .navitem:hover{
     background-color: darkblue;
     color: whitesmoke;
