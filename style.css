@@ -1,3 +1,13 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.navitem:hover{
+    background-color: darkblue;
+    color: whitesmoke;
+}
+
 #PortfolioTitle{
     background-color:rgb(62, 123, 173);
     text-decoration-line: underline;
@@ -20,16 +30,8 @@
 
 }
 
-#Project1{
+#Project1, #Project2, #Project3{
      background-color:lightblue;
-}
-
-#Project2{
-    background-color:lightblue;
-}
-
-#Project3{
-    background-color:lightblue;
 }
 
 #project{
